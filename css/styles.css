@@ -83,6 +83,10 @@ img {
     line-height: 1.2;
     letter-spacing: 0.03em;
     color: var(--accent-color);
+
+    margin-top: 24px;
+    margin-bottom: 25px;
+    width: 45px;
 }
  
 .logo-type {
@@ -92,13 +96,16 @@ img {
     line-height: 1.2;
     letter-spacing: 0.03em;
     color: #000000;
+
+    margin-right: 93px;
 }
 
-.main-logo {
-    margin-top: 24px;
-    margin-bottom: 25px;
-    width: 45px;
-    margin-right: 93px;
+.site-nav {
+    margin-left: 93px;
+}
+
+.site-nav-item {
+    margin-right: 50px;
 }
 
 .menu-link, .element {
@@ -110,7 +117,6 @@ img {
 
     padding-top: 32px;
     padding-bottom: 32px;
-    margin-right: 50px;
     display: block;
 }
  
